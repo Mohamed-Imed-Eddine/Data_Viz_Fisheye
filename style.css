@@ -1,0 +1,14 @@
+#graph{
+    display:flex;
+    justify-content: center;
+}
+
+h3{
+    text-align: center;
+}
+
+text{
+    text-anchor: middle;
+    font-size: 11px;
+}
+
