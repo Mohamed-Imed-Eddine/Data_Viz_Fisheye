@@ -11,7 +11,7 @@ Graph data visualisation for "World Soccer Data Paris 1998" Dataset using D3.js 
 
 ## Preview : 
 
-![Picture 1](https://github.com/Mohamed-Imed-Eddine/Data_Viz_Fisheye/blob/master/img/pic1.png?raw=true)
+![Picture 1](https://raw.githubusercontent.com/Mohamed-Imed-Eddine/Data_Viz_Fisheye/main/img/pic1.png)
  
-![Picture 2](https://github.com/Mohamed-Imed-Eddine/Data_Viz_Fisheye/blob/master/img/pic2.png?raw=true)
+![Picture 2](https://raw.githubusercontent.com/Mohamed-Imed-Eddine/Data_Viz_Fisheye/main/img/pic2.png)
 
